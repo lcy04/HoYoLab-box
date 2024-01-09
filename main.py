@@ -1,8 +1,8 @@
 import requests
 import os
 
-hoyo_uid = os.environ['HOYO_UID']
-hoyo_token = os.environ['HOYO_TOKEN']
+hoyo_uid = 114797891
+hoyo_token = 3QVqmzK3t9e0ObpDcR1hwT3PohtlYAtU5wJycZeW
 game_code = '26'
 
 # Game Code
@@ -10,8 +10,8 @@ game_code = '26'
 # 6 : Honkai: Star Rail
 
 gh_api_url = 'https://api.github.com'
-gh_token = os.environ['GH_TOKEN']
-gist_id = os.environ['GIST_ID']
+gh_token =  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
+gist_id = lcy04
 
 def get_data_from_hoyolab(hoyo_uid, hoyo_token) :
 
