@@ -1,8 +1,8 @@
 import requests
 
-hoyo_uid = ''
-hoyo_token = ''
-game_code = ''
+hoyo_uid = '114797891'
+hoyo_token = ' 3QVqmzK3t9e0ObpDcR1hwT3PohtlYAtU5wJycZeW'
+game_code = '2'
 
 # Game Code
 # 2 : Genshin Impact
